@@ -8,4 +8,3 @@
 
 // let monthAndYear = document.getElementById("monthAndYear");
 // showCalendar(currentMonth, currentYear);
-bruh
